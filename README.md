@@ -11,4 +11,5 @@ For this challenge, I went the extra mile and improve their codebase for long-te
 
 # Links
 Repository: https://github.com/DejahHarris/1-Code-Refactor
-Deployed site: 
+
+Deployed site: https://dejahharris.github.io/1-Code-Refactor/#social-media-marketing
